@@ -1,5 +1,5 @@
 {
-    "name": "lastzero/symlex-core",
+    "name": "hispavista/symlex-core",
     "type": "library",
     "description": "Symlex core components (Silex with Symfony DI Container)",
     "keywords": ["symfony","silex"],
